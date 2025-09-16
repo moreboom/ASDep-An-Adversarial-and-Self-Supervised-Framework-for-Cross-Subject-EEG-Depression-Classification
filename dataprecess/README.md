@@ -22,5 +22,5 @@ c. finally make a collect data for classification
 
 **final architecture**
 
-![result](11.png)
+![result](11.PNG)
 
