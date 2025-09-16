@@ -33,18 +33,17 @@ channel z-score standardization;
 
    It is necessary to merge and output an integrated NPY array for all samples in each directory
 
-   (For example, all files under H_S1~24_EC are merged into H_S1~24_EC.npy, H_S28~30_EC merged into H_S28~30_EC.npy) and output to a new folder
+   (For example, all files under H_S1\~24_EC are merged into H_S1\~24_EC.npy, H_S28\~30_EC merged into H_S28\~30_EC.npy) and output to a new folder
 
    Run datahug.py
 
    
 
 2. **Make labels:**
-   Label these files and generate a new NPY array for each copy，for example：H_S1~24_EC.npy produce a H_S1~24_EC_label.npy；Dtype = int64 Shape = (number of sample,)，
+   Label these files and generate a new NPY array for each copy，for example：H_S1\~24_EC.npy produce a H_S1\~24_EC_label.npy；Dtype = int64 Shape = (number of sample,)，
 
-   H ahead equals 0，_
-
-   _MDD_ ahead equals 1 
+   H ahead equals 0
+   MDD ahead equals 1 
 
    run labelmaker.py
 
