@@ -23,3 +23,6 @@ c. finally make a collect data for classification in the model.
 **thanks for dataset source:**
 
 (https://figshare.com/articles/dataset/EEG_Data_New/4244171/2)
+
+**technology framework**
+![mian](mian.PNG)
