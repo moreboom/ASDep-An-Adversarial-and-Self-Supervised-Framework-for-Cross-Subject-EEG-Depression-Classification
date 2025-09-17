@@ -25,4 +25,4 @@ c. finally make a collect data for classification in the model.
 (https://figshare.com/articles/dataset/EEG_Data_New/4244171/2)
 
 **technology framework**
-![mian](mian.png)
+![mian](main.png)
